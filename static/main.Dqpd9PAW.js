@@ -29171,7 +29171,7 @@ const PA = at(kA, [["render", AA]]),
         {
           name: "Dex",
           icon: _A,
-          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x93fbaD5F83598b505524aC0bBBC16C22E2fe91C0",
+          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x00000000000000000000000000000000000000",
         },
         { name: "Telegram", icon: PA, href: "https://t.me/crunchai_cloud" },
       ];
