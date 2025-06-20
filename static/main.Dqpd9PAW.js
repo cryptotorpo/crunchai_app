@@ -29167,7 +29167,7 @@ const PA = at(kA, [["render", AA]]),
     __name: "SocialLinksComp",
     setup(e) {
       const t = [
-        { name: "X", icon: vA, href: "https://x.com/CrunchAITech" },
+        { name: "X", icon: vA, href: "https://x.com/CrunchAICloud" },
         {
           name: "Dex",
           icon: _A,

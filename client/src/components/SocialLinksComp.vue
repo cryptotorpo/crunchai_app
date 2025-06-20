@@ -4,7 +4,7 @@ import LogoDexIcon from '@/components/icons/social/LogoDexIcon.vue'
 import LogoTelegramIcon from '@/components/icons/social/LogoTelegramIcon.vue'
 
 const socialLinks = [
-  { name: 'X', icon: LogoXIcon, href: 'https://x.com/CrunchAITech' },
+  { name: 'X', icon: LogoXIcon, href: 'https://x.com/CrunchAICloud' },
   {
     name: 'Dex',
     icon: LogoDexIcon,
