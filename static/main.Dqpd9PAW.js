@@ -29167,13 +29167,13 @@ const PA = at(kA, [["render", AA]]),
     __name: "SocialLinksComp",
     setup(e) {
       const t = [
-        { name: "X", icon: vA, href: "https://x.com/CrunchAICloud" },
+        { name: "X", icon: vA, href: "https://x.com/CrunchAI_Eth" },
         {
           name: "Dex",
           icon: _A,
-          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x51601e6168593c70dc4cc33270546300bda65a37",
+          href: "https://www.dextools.io/",
         },
-        { name: "Telegram", icon: PA, href: "https://t.me/crunchai_cloud" },
+        { name: "Telegram", icon: PA, href: "https://t.me/CrunchAI_Network" },
       ];
       return (n, r) => (
         pe(),
