@@ -4,13 +4,13 @@ import LogoDexIcon from '@/components/icons/social/LogoDexIcon.vue'
 import LogoTelegramIcon from '@/components/icons/social/LogoTelegramIcon.vue'
 
 const socialLinks = [
-  { name: 'X', icon: LogoXIcon, href: 'https://x.com/CrunchAI_Eth' },
+  { name: 'X', icon: LogoXIcon, href: 'https://x.com/Crunch_Network' },
   {
     name: 'Dex',
     icon: LogoDexIcon,
-    href: 'https://www.dextools.io/app/en/ether/pair-explorer/0xe976ffc84af70f5869bb9b8c654e24d820560a60?t=1753878593848',
+    href: 'https://www.dextools.io/',
   },
-  { name: 'Telegram', icon: LogoTelegramIcon, href: 'https://t.me/CrunchAI_Network' },
+  { name: 'Telegram', icon: LogoTelegramIcon, href: 'https://t.me/crunchai_erc20' },
 ]
 </script>
 
