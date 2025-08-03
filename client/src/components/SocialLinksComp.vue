@@ -8,7 +8,7 @@ const socialLinks = [
   {
     name: 'Dex',
     icon: LogoDexIcon,
-    href: 'https://www.dextools.io/',
+    href: 'https://www.dextools.io/app/en/ether/pair-explorer/0x3943dfbcd247fc1e0aa3a4817a2d6339e855a45c?t=1754215715930',
   },
   { name: 'Telegram', icon: LogoTelegramIcon, href: 'https://t.me/crunchai_erc20' },
 ]
